@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ishan Singh
-- 🚀 Currently a second year CS student at UofT.
-- 👀 I’m looking for Summer 2023 internship opportunites. 
+- 🚀 Third-year CS student at UofT.
 - 👀 Checkout my website https://ishan-singh-3005.github.io/ishan/#home
-- 🌱 I’m currently learning machine learning algorithms.
+- 🌱 Integration Engineer @ Ericsson, 3x Software Dev @ RBC
 - 📫 Reach me at ishan423@gmail.com
