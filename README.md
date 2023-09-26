@@ -2,4 +2,4 @@
 - 🚀 Third-year CS student at UofT.
 - 👀 Checkout my website https://ishan-singh-3005.github.io/ishan/#home
 - 🌱 Integration Engineer @ Ericsson, 3x Software Dev @ RBC
-- 📫 Reach me at ishan423@gmail.com
+- 📫 Reach me at is.singh@mail.utoronto.ca
